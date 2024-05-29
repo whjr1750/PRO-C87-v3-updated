@@ -1,0 +1,28 @@
+Installing 3 SDK 50.0.0 compatible native modules and 5 other packages using npm.
+> npm install
+
+added 6 packages, removed 1 package, and audited 1170 packages in 5s
+
+65 packages are looking for funding
+  run `npm fund` for details
+
+6 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+> npm install --save @react-navigation/native @react-navigation/stack react-native-responsive-fontsize react-native-dropdown-picker firebase
+
+added 93 packages, and audited 1263 packages in 19s
+
+66 packages are looking for funding
+  run `npm fund` for details
+
+6 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+› Added config plugin: expo-font
